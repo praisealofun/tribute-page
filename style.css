@@ -1,0 +1,11 @@
+#image {
+  max-width: 200px;
+  display: block;
+margin:0 auto
+}
+#img-caption {
+  text-align: center;
+}
+#title {
+  text-align: center;
+}
